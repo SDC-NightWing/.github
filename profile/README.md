@@ -9,7 +9,7 @@
   <tr>
     <th>Products API</th>
     <th>Ratings & Review API</th>
-    <th>A&A API/th>
+    <th>Q&A API/th>
   </tr>
   <tr>
     <th>Kat</th>
